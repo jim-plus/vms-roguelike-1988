@@ -1,0 +1,3 @@
+define verb secure
+        image "user1:[laij]tpu"
+        parameter p1, label=filespec
